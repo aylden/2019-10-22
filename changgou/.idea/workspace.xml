@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42acf34b-c9ee-4fd6-840b-45694d3fcac0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\DevelopTools\maven\apache-maven-3.5.4\repository" />
+        <option name="mavenHome" value="F:/DevelopTools/maven/apache-maven-3.5.4" />
+        <option name="updateIndicesOnProjectOpen" value="false" />
+        <option name="userSettingsFile" value="F:\DevelopTools\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Pqm97KjCYDOmRJM2H2eL7luCEi" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="service.view.auto.scroll.from.source" value="true" />
+    <property name="service.view.auto.scroll.to.source" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/changgou_parent/changgou_service_api/changgou_service_seckill_api/src/main/java/com/changgou/seckill/pojo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\JavaLearn\JavaLearn\changgou\changgou_parent\changgou_service\changgou_service_goods\src\main\resources" />
+      <recent name="F:\JavaLearn\JavaLearn\changgou\changgou_parent\changgou_web\changgou_web_item\src\main\resources\temlates" />
+      <recent name="F:\JavaLearn\JavaLearn\changgou\changgou_parent\changgou_web\changgou_web_search\src\main\resources" />
+      <recent name="F:\JavaLearn\JavaLearn\changgou\changgou_parent\changgou_eureka\src\main\java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JavaLearn\JavaLearn\changgou\changgou_parent\changgou_service\changgou_service_seckill\src\main\java\com\changgou\seckill\pojo" />
+      <recent name="F:\JavaLearn\JavaLearn\changgou\changgou_parent\changgou_service\changgou_service_pay\src\main\resources" />
+      <recent name="F:\JavaLearn\JavaLearn\changgou\changgou_parent\changgou_service\changgou_service_seckill\src\main\resources" />
+      <recent name="F:\JavaLearn\JavaLearn\changgou\changgou_parent\changgou_common\src\main\java\com\changgou\entity" />
+      <recent name="F:\JavaLearn\JavaLearn\changgou\changgou_parent\changgou_common\src\main\java\com\changgou\utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.changgou.pay.config" />
+      <recent name="com.changgou.seckill.config" />
+      <recent name="com.changgou.utils" />
+      <recent name="com.changgou.user.config" />
+      <recent name="com.changgou.goods.config" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.changgou.pay.service.impl" />
+      <recent name="com.changgou.pay.service" />
+      <recent name="com.changgou.order.service.impl" />
+      <recent name="com.changgou.order.service" />
+      <recent name="com.changgou.service.impl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OrderApp">
+    <configuration name="OrderUpdateListener" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.changgou.order.listener.OrderUpdateListener" />
+      <module name="changgou_service_order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.order.listener.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeckillGoodsPushTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.changgou.seckill.timer.SeckillGoodsPushTask" />
+      <module name="changgou_service_seckill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.seckill.timer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="changgou_web_item" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.service.impl.com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.changgou.service.impl.com.changgou" />
+      <option name="MAIN_CLASS_NAME" value="com.changgou.service.impl.com.changgou.test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanalApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou_service_canal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.CanalApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContentApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou_service_content" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.ContentApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou_eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.EurekaApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou_gateway_web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.GatewayWebApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou_service_goods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.GoodsApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou_web_item" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.ItemApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuthApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou_user_oauth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.OAuthApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou_service_order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.OrderApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou_service_search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.SearchApplication" />
+      <option name="VM_PARAMETERS" value="-Xms128m -Xmx1024m -XX:MaxPermSize=512m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchWebApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou_web_search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.SearchWebApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeckillApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou_service_seckill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.SeckillApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou_service_user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.UserApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeixinPayApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou_service_pay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.WeixinPayApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou_service_content" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.ContentApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.OrderUpdateListener" />
+      <item itemvalue="Application.SeckillGoodsPushTask" />
+      <item itemvalue="JUnit.test.test" />
+      <item itemvalue="Spring Boot.OrderApp" />
+      <item itemvalue="Spring Boot.GoodsApp" />
+      <item itemvalue="Spring Boot.EurekaApp" />
+      <item itemvalue="Spring Boot.SearchApp" />
+      <item itemvalue="Spring Boot.ContentApp" />
+      <item itemvalue="Spring Boot.SearchWebApp" />
+      <item itemvalue="Spring Boot.ItemApp" />
+      <item itemvalue="Spring Boot.CanalApp" />
+      <item itemvalue="Spring Boot.UserApp" />
+      <item itemvalue="Spring Boot.GatewayApp" />
+      <item itemvalue="Spring Boot.OAuthApp" />
+      <item itemvalue="Spring Boot.WeixinPayApp" />
+      <item itemvalue="Spring Boot.SeckillApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SeckillGoodsPushTask" />
+        <item itemvalue="JUnit.test.test" />
+        <item itemvalue="Application.OrderUpdateListener" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SearchEverywhereConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="FileSearchEverywhereContributor" />
+      <filtered-out-file-type name="ActionSearchEverywhereContributor" />
+      <filtered-out-file-type name="YAMLKeysSearchEverywhereContributor" />
+    </file-type-list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.11680328" />
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42acf34b-c9ee-4fd6-840b-45694d3fcac0" name="Default Changelist" comment="" />
+      <created>1566609846050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566609846050</updated>
+      <workItem from="1566609847206" duration="6772000" />
+      <workItem from="1566616741483" duration="2768000" />
+      <workItem from="1566647594880" duration="21325000" />
+      <workItem from="1566786689643" duration="33713000" />
+      <workItem from="1566867710688" duration="9240000" />
+      <workItem from="1566915090460" duration="35018000" />
+      <workItem from="1567046473138" duration="1264000" />
+      <workItem from="1567047763628" duration="3834000" />
+      <workItem from="1567051799958" duration="22154000" />
+      <workItem from="1567079091031" duration="3586000" />
+      <workItem from="1567135674564" duration="1800000" />
+      <workItem from="1567169235349" duration="2211000" />
+      <workItem from="1567171473194" duration="19428000" />
+      <workItem from="1567255779005" duration="33050000" />
+      <workItem from="1567344421958" duration="19000" />
+      <workItem from="1567344458666" duration="33000" />
+      <workItem from="1567344550128" duration="17000" />
+      <workItem from="1567344605233" duration="80000" />
+      <workItem from="1567344765070" duration="167000" />
+      <workItem from="1567344970569" duration="190000" />
+      <workItem from="1567345177394" duration="18223000" />
+      <workItem from="1567477408059" duration="19265000" />
+      <workItem from="1567563166011" duration="31373000" />
+      <workItem from="1567606603907" duration="5645000" />
+      <workItem from="1567646210477" duration="2457000" />
+      <workItem from="1567685604678" duration="37155000" />
+      <workItem from="1567904608630" duration="13481000" />
+      <workItem from="1567926943817" duration="32522000" />
+      <workItem from="1568474750755" duration="653000" />
+      <workItem from="1568517715386" duration="46000" />
+      <workItem from="1568682376326" duration="11955000" />
+      <workItem from="1568893321692" duration="14676000" />
+      <workItem from="1568987704986" duration="5122000" />
+      <workItem from="1569142019526" duration="2421000" />
+      <workItem from="1569209297645" duration="12629000" />
+      <workItem from="1569401168062" duration="4256000" />
+      <workItem from="1569464577706" duration="4334000" />
+      <workItem from="1570605397816" duration="2228000" />
+      <workItem from="1570671368060" duration="2771000" />
+      <workItem from="1570927950216" duration="2505000" />
+      <workItem from="1570931023910" duration="4880000" />
+      <workItem from="1570951929998" duration="29000" />
+      <workItem from="1571150448779" duration="445000" />
+      <workItem from="1571756002677" duration="341000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
